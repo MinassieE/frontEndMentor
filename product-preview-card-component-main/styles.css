@@ -75,6 +75,7 @@ img {
   display: inline-block;
 }
 .old-price {
+  text-decoration: line-through;
   margin-left: 15px;
   font-size: 12px;
   display: inline-block;

@@ -93,7 +93,7 @@ img {
   cursor: pointer;
 }
 
-.btn:active {
+.btn:hover {
   background-color: hsl(158, 49%, 14%);
 }
 
